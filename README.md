@@ -39,4 +39,4 @@ To run this project locally, follow these steps:
 ---
 
 ## 🔗 Live Demo
-* **Live URL:** TBD
+* **Live URL:** [https://abdulhadi117-hello.streamlit.app/](https://abdulhadi117-hello.streamlit.app/)
